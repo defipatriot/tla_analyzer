@@ -1,0 +1,88 @@
+{
+    "LUNA-USDC": [
+        { "month": "July 2025", "volume": 1900000, "liquidity": 850000, "fees_generated": 1425 },
+        { "month": "August 2025", "volume": 2100000, "liquidity": 920000, "fees_generated": 1575 }
+    ],
+    "LUNA-EURE": [
+        { "month": "July 2025", "volume": 250000, "liquidity": 120000, "fees_generated": 187 },
+        { "month": "August 2025", "volume": 150000, "liquidity": 180000, "fees_generated": 112 }
+    ],
+    "LUNA-USDT": [
+        { "month": "July 2025", "volume": 62000, "liquidity": 35000, "fees_generated": 217 },
+        { "month": "August 2025", "volume": 77500, "liquidity": 50000, "fees_generated": 271 }
+    ],
+    "LUNA-ASTRO": [
+        { "month": "July 2025", "volume": 250000, "liquidity": 65000, "fees_generated": 887 },
+        { "month": "August 2025", "volume": 300000, "liquidity": 55000, "fees_generated": 1065 }
+    ],
+    "LUNA-CAPA": [
+        { "month": "July 2025", "volume": 35000, "liquidity": 35000, "fees_generated": 26 },
+        { "month": "August 2025", "volume": 15000, "liquidity": 30000, "fees_generated": 11 }
+    ],
+    "LUNA-ROAR": [
+        { "month": "July 2025", "volume": 45000, "liquidity": 75000, "fees_generated": 34 },
+        { "month": "August 2025", "volume": 55000, "liquidity": 80000, "fees_generated": 41 }
+    ],
+    "LUNA-SOLID": [
+        { "month": "July 2025", "volume": 45000, "liquidity": 42000, "fees_generated": 135 },
+        { "month": "August 2025", "volume": 20000, "liquidity": 38000, "fees_generated": 60 }
+    ],
+    "LUNA-SWTH": [
+        { "month": "July 2025", "volume": 10000, "liquidity": 17000, "fees_generated": 30 },
+        { "month": "August 2025", "volume": 7000, "liquidity": 20000, "fees_generated": 21 }
+    ],
+    "LUNA-ampLUNA": [
+        { "month": "July 2025", "volume": 550000, "liquidity": 420000, "fees_generated": 2557.5 },
+        { "month": "August 2025", "volume": 700000, "liquidity": 450000, "fees_generated": 3255 }
+    ],
+    "bLUNA-LUNA": [
+        { "month": "July 2025", "volume": 1000, "liquidity": 2000, "fees_generated": 0.5 },
+        { "month": "August 2025", "volume": 500, "liquidity": 2000, "fees_generated": 0.25 }
+    ],
+    "stLUNA-LUNA": [
+        { "month": "July 2025", "volume": 400, "liquidity": 12000, "fees_generated": 0.2 },
+        { "month": "August 2025", "volume": 150, "liquidity": 15000, "fees_generated": 0.08 }
+    ],
+    "USDC-SOLID": [
+        { "month": "July 2025", "volume": 150000, "liquidity": 105000, "fees_generated": 450 },
+        { "month": "August 2025", "volume": 80000, "liquidity": 115000, "fees_generated": 240 }
+    ],
+    "USDC-EURE": [
+        { "month": "July 2025", "volume": 600000, "liquidity": 300000, "fees_generated": 2130 },
+        { "month": "August 2025", "volume": 750000, "liquidity": 380000, "fees_generated": 2662.5 }
+    ],
+    "ATOM-LUNA": [
+        { "month": "July 2025", "volume": 450000, "liquidity": 85000, "fees_generated": 1350 },
+        { "month": "August 2025", "volume": 150000, "liquidity": 80000, "fees_generated": 450 }
+    ],
+    "wBNB.axl-LUNA": [
+        { "month": "July 2025", "volume": 0, "liquidity": 20000, "fees_generated": 0 },
+        { "month": "August 2025", "volume": 0, "liquidity": 40000, "fees_generated": 0 }
+    ],
+    "LUNA-wBTC.atom": [
+        { "month": "August 2025", "volume": 180000, "liquidity": 110000, "fees_generated": 135 }
+    ],
+    "LUNA-wBTC.axl": [
+        { "month": "July 2025", "volume": 400000, "liquidity": 55000, "fees_generated": 350 },
+        { "month": "August 2025", "volume": 250000, "liquidity": 60000, "fees_generated": 218.75 }
+    ],
+    "USDC-USDT": [
+        { "month": "July 2025", "volume": 50000, "liquidity": 300000, "fees_generated": 25 },
+        { "month": "August 2025", "volume": 40000, "liquidity": 350000, "fees_generated": 20 }
+    ],
+    "ATOM-dATOM": [
+        { "month": "July 2025", "volume": 450000, "liquidity": 600000, "fees_generated": 213.75 },
+        { "month": "August 2025", "volume": 300000, "liquidity": 750000, "fees_generated": 142.5 }
+    ],
+    "LUNA-arbLUNA": [],
+    "ATOM-stATOM": [
+        { "month": "July 2025", "volume": 1200, "liquidity": 20000, "fees_generated": 0.56 },
+        { "month": "August 2025", "volume": 500, "liquidity": 15000, "fees_generated": 0.23 }
+    ],
+    "wBTC.axl-wBTC.osmo": [
+        { "month": "July 2025", "volume": 20000, "liquidity": 150000, "fees_generated": 10 },
+        { "month": "August 2025", "volume": 30000, "liquidity": 180000, "fees_generated": 15 }
+    ],
+    "wstETH-WETH.axl": []
+}
+
