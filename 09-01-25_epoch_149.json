@@ -1,0 +1,37 @@
+{
+    "globalTlaStats": {
+        "tvl_usd": 4180000,
+        "annual_rewards_usd": 2310000,
+        "total_vp": 15240000,
+        "snapshot_date": "2025-09-01T22:00:00Z"
+    },
+    "tlaPools": [
+        { "name": "LUNA-USDC LP", "bucket": "Stable", "staked_usd": 869410, "depth": 930000, "votes_vp": 10170000, "vote_percentage": "66.8%", "incentives_weekly": 16.40, "apr_non_compounding": "67.92%", "apr_compounding": "92.23%", "rewards_usd_yearly": 652800 },
+        { "name": "LUNA-EURE LP", "bucket": "Stable", "staked_usd": 151000, "depth": 155740, "votes_vp": 1860000, "vote_percentage": "12.2%", "incentives_weekly": 0, "apr_non_compounding": "44.92%", "apr_compounding": "54.99%", "rewards_usd_yearly": 80880 },
+        { "name": "LUNA-USDT LP", "bucket": "Stable", "staked_usd": 53000, "depth": 56400, "votes_vp": 513700, "vote_percentage": "3.4%", "incentives_weekly": 0, "apr_non_compounding": "50.78%", "apr_compounding": "63.60%", "rewards_usd_yearly": 31090 },
+        { "name": "LUNA-ASTRO LP", "bucket": "Project", "staked_usd": 46880, "depth": 48700, "votes_vp": 1030000, "vote_percentage": "6.8%", "incentives_weekly": 41.60, "apr_non_compounding": "114.16%", "apr_compounding": "187.57%", "rewards_usd_yearly": 54140 },
+        { "name": "LUNA-CAPA LP", "bucket": "Project", "staked_usd": 42620, "depth": 44520, "votes_vp": 2500000, "vote_percentage": "16.3%", "incentives_weekly": 0, "apr_non_compounding": "121.96%", "apr_compounding": "222.00%", "rewards_usd_yearly": 55410 },
+        { "name": "LUNA-ROAR LP", "bucket": "Project", "staked_usd": 80610, "depth": 86950, "votes_vp": 2160000, "vote_percentage": "21.5%", "incentives_weekly": 106.19, "apr_non_compounding": "115.93%", "apr_compounding": "207.76%", "rewards_usd_yearly": 101440 },
+        { "name": "LUNA-SOLID LP", "bucket": "Project", "staked_usd": 42840, "depth": 44890, "votes_vp": 1260000, "vote_percentage": "8.2%", "incentives_weekly": 39.22, "apr_non_compounding": "105.99%", "apr_compounding": "176.30%", "rewards_usd_yearly": 48650 },
+        { "name": "LUNA-SWTH LP", "bucket": "Project", "staked_usd": 17640, "depth": 18470, "votes_vp": 552540, "vote_percentage": "0.0%", "incentives_weekly": 0, "apr_non_compounding": "48.91%", "apr_compounding": "61.70%", "rewards_usd_yearly": 10341.77 },
+        { "name": "LUNA-ampLUNA LP", "bucket": "Project", "staked_usd": 153760, "depth": 376350, "votes_vp": 3820000, "vote_percentage": "19.2%", "incentives_weekly": 87.05, "apr_non_compounding": "30.73%", "apr_compounding": "35.13%", "rewards_usd_yearly": 61260 },
+        { "name": "LUNA-boneLUNA LP", "bucket": "Project", "staked_usd": 0, "depth": 27780, "votes_vp": 654630, "vote_percentage": "0.0%", "incentives_weekly": 49.20, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "LUNA-stLUNA LP", "bucket": "Project", "staked_usd": 9013.21, "depth": 12858.99, "votes_vp": 162920, "vote_percentage": "1.1%", "incentives_weekly": 0, "apr_non_compounding": "47.74%", "apr_compounding": "60.04%", "rewards_usd_yearly": 5205.04 },
+        { "name": "USDC-SOLID LP", "bucket": "Project", "staked_usd": 98000, "depth": 103390, "votes_vp": 1680000, "vote_percentage": "10.0%", "incentives_weekly": 28.66, "apr_non_compounding": "40.06%", "apr_compounding": "47.85%", "rewards_usd_yearly": 47750 },
+        { "name": "LUNA-FUEL LP", "bucket": "Project", "staked_usd": 0, "depth": 0, "votes_vp": 0, "vote_percentage": "0%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "USDC-EURE LP", "bucket": "Bluechip", "staked_usd": 0, "depth": 27880, "votes_vp": 268000, "vote_percentage": "1.4%", "incentives_weekly": 28.66, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "LUNA-ATOM LP", "bucket": "Bluechip", "staked_usd": 0, "depth": 96620, "votes_vp": 1890000, "vote_percentage": "12.4%", "incentives_weekly": 19.32, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "LUNA-wBNB.axl LP", "bucket": "Bluechip", "staked_usd": 0, "depth": 90860, "votes_vp": 122280, "vote_percentage": "0.8%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "LUNA-wBTC.atom LP", "bucket": "Bluechip", "staked_usd": 0, "depth": 121800, "votes_vp": 3950000, "vote_percentage": "26.8%", "incentives_weekly": 77.27, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "LUNA-wBTC.axl LP", "bucket": "Bluechip", "staked_usd": 0, "depth": 58280, "votes_vp": 1120000, "vote_percentage": "8.3%", "incentives_weekly": 19.32, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "LUNA-wstETH LP", "bucket": "Bluechip", "staked_usd": 0, "depth": 162630, "votes_vp": 490230, "vote_percentage": "3.0%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "USDC-USDT LP", "bucket": "Single", "staked_usd": 304580, "depth": 334140, "votes_vp": 1290000, "vote_percentage": "8.4%", "incentives_weekly": 28.64, "apr_non_compounding": "5.75%", "apr_compounding": "5.58%", "rewards_usd_yearly": 47780 },
+        { "name": "ATOM-dATOM LP", "bucket": "Single", "staked_usd": 125670, "depth": 612950, "votes_vp": 1590000, "vote_percentage": "10.7%", "incentives_weekly": 28.64, "apr_non_compounding": "28.25%", "apr_compounding": "32.08%", "rewards_usd_yearly": 47770 },
+        { "name": "LUNA-arbLUNA LP", "bucket": "Single", "staked_usd": 73540, "depth": 73560, "votes_vp": 1270000, "vote_percentage": "8.2%", "incentives_weekly": 49.92, "apr_non_compounding": "72.74%", "apr_compounding": "103.11%", "rewards_usd_yearly": 60230 },
+        { "name": "ATOM-stATOM LP", "bucket": "Single", "staked_usd": 0, "depth": 0, "votes_vp": 105500, "vote_percentage": "0.7%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "wBTC.axl-wBTC.osmo LP", "bucket": "Single", "staked_usd": 193530, "depth": 204140, "votes_vp": 8980000, "vote_percentage": "5.4%", "incentives_weekly": 32.22, "apr_non_compounding": "2.48%", "apr_compounding": "2.16%", "rewards_usd_yearly": 23880 },
+        { "name": "wstETH-WETH.axl LP", "bucket": "Single", "staked_usd": 0, "depth": 75660, "votes_vp": 1310000, "vote_percentage": "8.7%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "ampCAPA", "bucket": "Single", "staked_usd": 0, "depth": 0, "votes_vp": 2530000, "vote_percentage": "15.3%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 },
+        { "name": "xASTRO", "bucket": "Single", "staked_usd": 0, "depth": 1180000, "votes_vp": 269220, "vote_percentage": "1.6%", "incentives_weekly": 0, "apr_non_compounding": "0%", "apr_compounding": "0%", "rewards_usd_yearly": 0 }
+    ]
+}
